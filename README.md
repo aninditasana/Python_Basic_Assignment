@@ -1,0 +1,2 @@
+# Python_Basic_Assignment
+Python_Basic_Assignment1 THEORITICAL+PRACTICAL QUESTIONS
